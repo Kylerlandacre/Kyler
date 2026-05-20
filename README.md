@@ -14,4 +14,4 @@
 <li>love T.H.C</li>
 <li>love cats</li>
 </ul>
-	<img src="https://i.kym-cdn.com/photos/images/original/002/073/937/5c1.jpg"> <H6>Dakrysler dealinshit™</H6>
+	<img src="https://i.kym-cdn.com/photos/images/original/002/073/937/5c1.jpg"> <H6>&#169;Dakrysler&#174;dealinshit™</H6>
