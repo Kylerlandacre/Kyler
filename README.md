@@ -1,5 +1,5 @@
 # About me/ish.
-🫠
+&#x20AC;🫠&#x3A9;
 # `My personal repository`
 <section>
 <img src="https://cdn11.bigcommerce.com/s-6c6d8/images/stencil/1280x1280/products/30309/43764/ca663e36-ff11-5e3b-9b2c-f77c9647df87__23831.1692896269.jpg?c=2" alt="actually me in real life" height="165" width="125">
