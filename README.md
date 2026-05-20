@@ -1,4 +1,4 @@
-<body><script> alert(you should not be HERE!!!) </script></body>
+<script> alert(you should not be HERE!!!) </script>
 # About me/ish.
 &#x20AC;🫠&#x3A9;
 # `My personal repository`
